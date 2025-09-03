@@ -107,10 +107,4 @@ Contributions are welcome!
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## **Contact**
-
-For any queries or suggestions, reach out at **[official.aiswariya@gmail.com](mailto:official.aiswariya@gmail.com)**.
-
 
